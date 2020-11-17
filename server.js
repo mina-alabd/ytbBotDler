@@ -3,7 +3,7 @@ var bb = require('bot-brother');
 var fs = require('fs');
 var mkdirp = require('mkdirp');
 var bot = bb({
-  key: '1107009022:AAHkOzKjK4pDf9D7i-C8-PH5x1NI-61iVe8',
+  key: '1099075611:AAFNg2YnD52QQvctaFL7FnLa-7HKfjmmtJc',
   sessionManager: bb.sessionManager.memory(),
   polling: { interval: 0, timeout: 1 }
 });
